@@ -53,4 +53,4 @@ Start development
 ./scripts/start.sh
 ```
 
-Go to [http://localhost:4000](http://localhost:4000) for development with livereload.
+Go to [http://localhost:4000/tailpages](http://localhost:4000/tailpages/) for development with livereload.
